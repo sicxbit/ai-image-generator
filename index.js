@@ -2,7 +2,7 @@ const path = require("path");
 const express = require("express");
 const dotenv = require("dotenv").config();
 const { generateImage } = require("./controllers/openaiController");
-const port = process.env.PORT;
+let port;
 const app = express();
 // Enable body parser
 
