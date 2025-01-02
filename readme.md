@@ -3,6 +3,9 @@
 *A simple AI-powered tool to generate images from textual prompts.*
 
 ---
+## Live Demo
+Check out the deployed application: [AI Image Generator](https://artigenius.vercel.app/)
+
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -18,6 +21,8 @@
 
 ## About the Project
 This project leverages AI to create unique images based on user-provided prompts. It serves as a demonstration of integrating AI capabilities into a user-friendly application.
+*Note: This project was initially committed to GitLab and has been cloned to GitHub for better accessibility and maintenance.*
+the gitlab [gitlab](https://gitlab.com/arunjith.official/ai-image-generator)
 
 ---
 
