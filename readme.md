@@ -56,11 +56,6 @@ This project leverages AI to create unique images based on user-provided prompts
 2. Enter a textual prompt in the input field.
 3. Click "Generate" to create an AI-generated image.
 
----
-5. Open a pull request for review.
-
----
-
 ## License
 *This project currently does not have a license.*  
 If you plan to reuse or distribute this code, please reach out to clarify usage permissions.
